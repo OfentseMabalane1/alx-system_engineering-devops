@@ -1,1 +1,1 @@
-cd, pwd, ls
+i am working now
