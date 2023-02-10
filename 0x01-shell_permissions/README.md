@@ -1,1 +1,1 @@
-My third readme
+0x01. Shell, permissions
